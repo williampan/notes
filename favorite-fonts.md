@@ -1,7 +1,7 @@
 # Favorite fonts
 All classifications are arbitrary. 
 
-To do: Ourtype, Optimo, Lineto, DTL, Enschedé, Storm, Playtype, Briefcase, FontBureau, FF, old ITC + Linotype + Monotype, Camelot
+To do: Ourtype, Optimo, Lineto, DTL, Enschedé, Storm, Playtype, Briefcase, FontBureau, FF, old ITC + Linotype + Monotype, Camelot, Milieu Grotesque
 
 ## Serif
 ### Venetian
@@ -73,82 +73,93 @@ To do: Ourtype, Optimo, Lineto, DTL, Enschedé, Storm, Playtype, Briefcase, Font
 * [Grot10][60] (£45)
 * [F Grotesk][61] (€90 desktop only)
 * [Marcin Antique][62] (€35) 
+* [Italian Sans][63] (£45)
 
 ### Late grotesk
-* [Atlas Grotesk][63] ($50) 
-* [Untitled Sans][64] ($50) 
-* [America][65] (5 widths, Compressed to Expanded) ($50) 
-* [Nitti Grotesk][66] (€49) 
-* [Neutral][67] (€80 desktop + web service, €16 web service) 
-* [Lab Grotesque][68] (€39) 
-* [Favorit][69] (€90 desktop, €135 web)
-* [New Rail Alphabet][70] (£100)
-* [Recognition][71] (£45)
-* [Contemporary Sans][72] (€39)
-* [Lars][73] (€75 desktop + web) 
-* [Union][74] (€90 desktop only)
+* [Atlas Grotesk][64] ($50) 
+* [Untitled Sans][65] ($50) 
+* [America][66] (5 widths, Compressed to Expanded) ($50) 
+* [Nitti Grotesk][67] (€49) 
+* [Neutral][68] (€80 desktop + web service, €16 web service) 
+* [Lab Grotesque][69] (€39) 
+* [Favorit][70] (€90 desktop, €135 web)
+* [New Rail Alphabet][71] (£100)
+* [Recognition][72] (£45)
+* [Contemporary Sans][73] (€39)
+* [Lars][74] (€75 desktop + web) 
+* [Union][75] (€90 desktop only)
+* Maison Neue ([Standard][76], [Extended][77]) (€99)
+
+### Excoffon 
+* [Patron][78] (€99) 
 
 ### Geometric
-* [Stratos][75] (€30 desktop, €59 web)
-* [Graphik][76] ($50) 
-* [Calibre][77] / [Metric][78] ($50) 
-* [Walsheim][79] ($50, with oblique) 
-* [Trio Grotesk][80] (€50) 
-* [Sharp Sans][81] ($50) 
-* [Geometric 212][82] ($29) / [Spartan][83] ($35) 
-* [Boing][84] (£45)
-* [Agipo][85] (€90 desktop only)
+* [Stratos][79] (€30 desktop, €59 web)
+* [Graphik][80] ($50) 
+* [Calibre][81] / [Metric][82] ($50) 
+* [Walsheim][83] ($50, with oblique) 
+* [Trio Grotesk][84] (€50) 
+* [Sharp Sans][85] ($50) 
+* [Geometric 212][86] ($29) / [Spartan][87] ($35) 
+* [Boing][88] (£45)
+* [Agipo][89] (€90 desktop only)
+* [Mikro][90] (€39)
 
 ### Square
-* [Italian Sans][86] (£45)
-* [Cholla][87] ($49 desktop, $39 web)
-* [Brevier][88] (€40 desktop only)
+* [Cholla][91] ($49 desktop, $39 web)
+* [Brevier][92] (€40 desktop only)
 
 ### High contrast sans
-* [Columbia Sans][89] (€40 desktop, €83 web)
-* Chiswick Sans ([Poster][90], [Standard][91], [Text][92]) ($50) 
-* Darby Sans ([Poster][93], [Standard][94])
-* [SangBleu Sans][95]
-* [Chap][96] (€50) 
+* [Columbia Sans][93] (€40 desktop, €83 web)
+* Chiswick Sans ([Poster][94], [Standard][95], [Text][96]) ($50) 
+* Darby Sans ([Poster][97], [Standard][98])
+* [SangBleu Sans][99] (50 SFr)
+* [Chap][100] (€50) 
 
 ### Rounded sans
-* [Anchor][97] ($39 desktop, $29 web) 
-* [A23D Solid][98] (£45)
-* [Flavin][99] (£45)
-* [New Grotesk Round][100] (£45)
-* [Program][101] ($49 desktop, $39 web)
+* [Anchor][101] ($39 desktop, $29 web) 
+* [A23D Solid][102] (£45)
+* [Flavin][103] (£45)
+* [New Grotesk Round][104] (£45)
+* [Program][105] ($49 desktop, $39 web)
+* [Chapeau][106] (€99)
+* [Generika][107] (€99)
 
 ### Display grotesque
-* [Origin Super Condensed][102] (€40 desktop, €83 web)
-* [New Grotesk Square][103] (£45)
-* [Girott][104] (€90 desktop only)
+* [Origin Super Condensed][108] (€40 desktop, €83 web)
+* [New Grotesk Square][109] (£45)
+* [Girott][110] (€90 desktop only)
 
 ## Monospaced
 ### Sans
-* [Atlas Typewriter][105] ($50) 
-* [Founders Grotesk Mono][106] ($50) 
-* [America Mono][107] ($50) 
-* [Nitti][108] (€59) 
-* [Spot Mono][109] (€40) 
-* [Favorit Mono][110] (€90 desktop, €135 web)
-* [Lars Mono][111] (€75 desktop + web)
+* [Atlas Typewriter][111] ($50) 
+* [Founders Grotesk Mono][112] ($50) 
+* [America Mono][113] ($50) 
+* [Nitti][114] (€59) 
+* [Spot Mono][115] (€40) 
+* [Favorit Mono][116] (€90 desktop, €135 web)
+* [Lars Mono][117] (€75 desktop + web)
+* [Maison Neue Mono][118] (€99)
+* [Generika Mono][119] (€99)
 
 ### Serif
-* [Pitch][112] ($50)
-* [TheW Clan][113] (50 SFr)
+* [Pitch][120] ($50)
+* [TheW Clan][121] (50 SFr)
+* [Lacrima][122] (Serif, Senza, Italic) (€99)
 
 ## Display
 
 ### Calligraphic
-* [Ogg][114] ($50) 
-* [Frauen][115] ($50) 
-* [Respira Black][116] ($50) 
-* [Odesta][117] (€45)
+* [Ogg][123] ($50) 
+* [Frauen][124] ($50) 
+* [Respira Black][125] ($50) 
+* [Odesta][126] (€45) 
+* [Line][127] (€49)
 
 ### Other
-* [Maelstrom][118] ($50) 
-* [SangBleu Serif][119] (50 SFr)
-* [SangBleu Courtesan][120] (50 SFr)
+* [Maelstrom][128] ($50) 
+* [SangBleu Serif][129] (50 SFr)
+* [SangBleu Courtesan][130] (50 SFr)
 
 [1]:	https://www.rosettatype.com/Neacademia
 [2]:	http://emigre.com/EF.php?fid=130
@@ -211,61 +222,71 @@ To do: Ourtype, Optimo, Lineto, DTL, Enschedé, Storm, Playtype, Briefcase, Font
 [60]:	https://www.a2-type.co.uk/grot10
 [61]:	http://radimpesko.com/fonts/f-grotesk
 [62]:	http://www.felicianotypefoundry.com/cms/fonts/marcin-antique
-[63]:	https://commercialtype.com/catalog/atlas/atlas_grotesk
-[64]:	https://klim.co.nz/retail-fonts/untitled-sans/
-[65]:	https://www.grillitype.com/typefaces/gt-america
-[66]:	https://boldmonday.com/typefaces/nitti-grotesk/
-[67]:	https://www.typotheque.com/fonts/neutral
-[68]:	https://lettersfromsweden.se/labgrotesque/
-[69]:	http://www.abcdinamo.com/favorit
-[70]:	https://www.a2-type.co.uk/new-rail-alphabet
-[71]:	https://www.a2-type.co.uk/recognition%20
-[72]:	https://www.ludwigtype.de/fonts/contemporarysans/overview
-[73]:	https://bold-decisions.biz/typefaces/lars
-[74]:	http://radimpesko.com/fonts/union
-[75]:	https://productiontype.com/family/stratos
-[76]:	https://commercialtype.com/catalog/graphik/graphik
-[77]:	https://klim.co.nz/retail-fonts/calibre/
-[78]:	https://klim.co.nz/retail-fonts/metric/%20
-[79]:	https://www.grillitype.com/typefaces/gt-walsheim
-[80]:	https://www.schick-toikka.com/trio-grotesk
-[81]:	https://sharptype.co/typefaces/sharp-sans/
-[82]:	https://www.myfonts.com/fonts/bitstream/geometric-212/
-[83]:	https://www.myfonts.com/fonts/linotype/spartan/
-[84]:	https://www.a2-type.co.uk/boing
-[85]:	http://radimpesko.com/fonts/agipo
-[86]:	https://www.a2-type.co.uk/italian-sans
-[87]:	http://emigre.com/EF.php?fid=84
-[88]:	http://c-a-s-t.com/brevier/index.html
-[89]:	https://productiontype.com/family/columbia_sans
-[90]:	https://commercialtype.com/catalog/chiswick_sans/chiswick_sans_poster
-[91]:	https://commercialtype.com/catalog/chiswick_sans/chiswick_sans
-[92]:	https://commercialtype.com/catalog/chiswick_sans/chiswick_sans_text
-[93]:	https://commercialtype.com/catalog/darby/darby_sans_poster
-[94]:	https://commercialtype.com/catalog/darby/darby_sans
-[95]:	https://www.swisstypefaces.com/fonts/sangbleu/
-[96]:	https://www.schick-toikka.com/chap
-[97]:	https://processtypefoundry.com/fonts/anchor/
-[98]:	https://www.a2-type.co.uk/a23d-solid
-[99]:	https://www.a2-type.co.uk/flavin
-[100]:	https://www.a2-type.co.uk/new-grotesk-round
-[101]:	http://emigre.com/EF.php?fid=219
-[102]:	https://productiontype.com/family/origin_super_condensed
-[103]:	https://www.a2-type.co.uk/new-grotesk-square
-[104]:	http://radimpesko.com/fonts/girott
-[105]:	https://commercialtype.com/catalog/atlas/atlas_typewriter
-[106]:	https://klim.co.nz/retail-fonts/founders-grotesk-mono/
-[107]:	https://www.grillitype.com/typefaces/gt-america
-[108]:	https://boldmonday.com/typefaces/nitti/
-[109]:	https://www.schick-toikka.com/spot-mono
-[110]:	http://www.abcdinamo.com/favorit
-[111]:	https://bold-decisions.biz/typefaces/lars
-[112]:	https://klim.co.nz/retail-fonts/pitch/
-[113]:	https://www.swisstypefaces.com/fonts/thew/
-[114]:	https://sharptype.co/typefaces/ogg/
-[115]:	https://sharptype.co/typefaces/frauen/
-[116]:	https://sharptype.co/typefaces/respira-black/
-[117]:	http://www.urtd.net/fonts/odesta/
-[118]:	https://klim.co.nz/retail-fonts/maelstrom/
-[119]:	https://www.swisstypefaces.com/fonts/sangbleu/
-[120]:	https://www.swisstypefaces.com/fonts/sangbleu/
+[63]:	https://www.a2-type.co.uk/italian-sans
+[64]:	https://commercialtype.com/catalog/atlas/atlas_grotesk
+[65]:	https://klim.co.nz/retail-fonts/untitled-sans/
+[66]:	https://www.grillitype.com/typefaces/gt-america
+[67]:	https://boldmonday.com/typefaces/nitti-grotesk/
+[68]:	https://www.typotheque.com/fonts/neutral
+[69]:	https://lettersfromsweden.se/labgrotesque/
+[70]:	http://www.abcdinamo.com/favorit
+[71]:	https://www.a2-type.co.uk/new-rail-alphabet
+[72]:	https://www.a2-type.co.uk/recognition%20
+[73]:	https://www.ludwigtype.de/fonts/contemporarysans/overview
+[74]:	https://bold-decisions.biz/typefaces/lars
+[75]:	http://radimpesko.com/fonts/union
+[76]:	https://www.milieugrotesque.com/typefaces/maison_neue/subfamilies/1157
+[77]:	https://www.milieugrotesque.com/typefaces/maison_neue/subfamilies/1158
+[78]:	https://www.milieugrotesque.com/typefaces/patron/
+[79]:	https://productiontype.com/family/stratos
+[80]:	https://commercialtype.com/catalog/graphik/graphik
+[81]:	https://klim.co.nz/retail-fonts/calibre/
+[82]:	https://klim.co.nz/retail-fonts/metric/%20
+[83]:	https://www.grillitype.com/typefaces/gt-walsheim
+[84]:	https://www.schick-toikka.com/trio-grotesk
+[85]:	https://sharptype.co/typefaces/sharp-sans/
+[86]:	https://www.myfonts.com/fonts/bitstream/geometric-212/
+[87]:	https://www.myfonts.com/fonts/linotype/spartan/
+[88]:	https://www.a2-type.co.uk/boing
+[89]:	http://radimpesko.com/fonts/agipo
+[90]:	https://lettersfromsweden.se/mikro/
+[91]:	http://emigre.com/EF.php?fid=84
+[92]:	http://c-a-s-t.com/brevier/index.html
+[93]:	https://productiontype.com/family/columbia_sans
+[94]:	https://commercialtype.com/catalog/chiswick_sans/chiswick_sans_poster
+[95]:	https://commercialtype.com/catalog/chiswick_sans/chiswick_sans
+[96]:	https://commercialtype.com/catalog/chiswick_sans/chiswick_sans_text
+[97]:	https://commercialtype.com/catalog/darby/darby_sans_poster
+[98]:	https://commercialtype.com/catalog/darby/darby_sans
+[99]:	https://www.swisstypefaces.com/fonts/sangbleu/
+[100]:	https://www.schick-toikka.com/chap
+[101]:	https://processtypefoundry.com/fonts/anchor/
+[102]:	https://www.a2-type.co.uk/a23d-solid
+[103]:	https://www.a2-type.co.uk/flavin
+[104]:	https://www.a2-type.co.uk/new-grotesk-round
+[105]:	http://emigre.com/EF.php?fid=219
+[106]:	https://www.milieugrotesque.com/typefaces/chapeau/
+[107]:	https://www.milieugrotesque.com/typefaces/generika/
+[108]:	https://productiontype.com/family/origin_super_condensed
+[109]:	https://www.a2-type.co.uk/new-grotesk-square
+[110]:	http://radimpesko.com/fonts/girott
+[111]:	https://commercialtype.com/catalog/atlas/atlas_typewriter
+[112]:	https://klim.co.nz/retail-fonts/founders-grotesk-mono/
+[113]:	https://www.grillitype.com/typefaces/gt-america
+[114]:	https://boldmonday.com/typefaces/nitti/
+[115]:	https://www.schick-toikka.com/spot-mono
+[116]:	http://www.abcdinamo.com/favorit
+[117]:	https://bold-decisions.biz/typefaces/lars
+[118]:	https://www.milieugrotesque.com/typefaces/maison_neue/subfamilies/1159
+[119]:	https://www.milieugrotesque.com/typefaces/generika/
+[120]:	https://klim.co.nz/retail-fonts/pitch/
+[121]:	https://www.swisstypefaces.com/fonts/thew/
+[122]:	https://www.milieugrotesque.com/typefaces/lacrima/
+[123]:	https://sharptype.co/typefaces/ogg/
+[124]:	https://sharptype.co/typefaces/frauen/
+[125]:	https://sharptype.co/typefaces/respira-black/
+[126]:	http://www.urtd.net/fonts/odesta/
+[127]:	https://lettersfromsweden.se/line/
+[128]:	https://klim.co.nz/retail-fonts/maelstrom/
+[129]:	https://www.swisstypefaces.com/fonts/sangbleu/
+[130]:	https://www.swisstypefaces.com/fonts/sangbleu/
