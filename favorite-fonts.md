@@ -1,6 +1,8 @@
 # Favorite fonts
 All classifications are arbitrary. 
 
+To do: Ourtype, Optimo, Lineto, DTL, Enschedé, Storm, Playtype, Briefcase, FontBureau, FF, old ITC + Linotype + Monotype, Camelot
+
 ## Serif
 ### Venetian
 * [Neacademia][1] (Display, Subhead, Text, SmText) (€60) 
