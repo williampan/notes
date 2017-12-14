@@ -2,21 +2,15 @@
 All classifications are arbitrary. Prices are per style. 
 
 ## To do
-* Lineto
-* DTL
-* Enschedé
 * Storm
 * Playtype
 * Briefcase
 * FontBureau
-* FF
 * old ITC + Linotype + Monotype, 
 * [http://www.205.tf/](http://www.205.tf/)
 * Fontstore
 * [http://www.bb-bureau.fr/](http://www.bb-bureau.fr/)
 * [http://www.fontseek.info/](http://www.fontseek.info/)
-* [http://www.dardenstudio.com/](http://www.dardenstudio.com/)
-* [http://brownfox.org](http://brownfox.org)
 * [https://sellfy.com/holmkvist](https://sellfy.com/holmkvist)
 * [https://ecal-typefaces.ch/](https://ecal-typefaces.ch/)
 * [http://type-together.com/](http://type-together.com/)
@@ -45,7 +39,12 @@ All classifications are arbitrary. Prices are per style.
 * [Guyot](http://www.re-type.com/fonts/guyot/) (Headline, Text) ($39)
 * [Practice](http://optimo.ch/typefaces_Practice.html) (150 SFr) 
 * [Laurentian](https://www.myfonts.com/fonts/mti/laurentian/) ($79)
-
+* [Quadraat](https://www.myfonts.com/fonts/fontfont/ff-quadraat/) ($79)
+* [Albertina](https://www.dutchtypelibrary.nl/Albertina_rdrct.html) (€125 desktop, €1250 web)
+* [Haarlemmer](https://www.dutchtypelibrary.nl/Haarlem_Regular_rdrct.html) (€125 desktop, €1250 web)
+* [Valiance](https://www.dutchtypelibrary.nl/Valiance_rdrct.html) (€125 desktop, €1250 web)
+* [Trinité](https://www.teff.nl/fonts/trinite/index.html) (€281 desktop only)
+* [Galliard](https://www.myfonts.com/fonts/itc/galliard/) ($35)
 
 ### Baroque (Caslon &c.)
  * [English 1766](https://www.a2-type.co.uk/english-1766) (£45)
@@ -56,17 +55,25 @@ All classifications are arbitrary. Prices are per style.
 * [Pradell](http://www.typerepublic.com/pradell.html) (€80 desktop, €50 web, roman & italic; $50 [from MyFonts](https://www.myfonts.com/fonts/typerepublic/pradell/))
 * [Eudald News](http://www.felicianotypefoundry.com/cms/fonts/eudald-news) (€35) 
 * [Rosart](https://camelot-typefaces.com/rosart) (€75)
-* Janson Text ([Linotype](https://www.myfonts.com/fonts/linotype/janson-text/)) (Kis) ($35)
+* [Janson Text](https://www.myfonts.com/fonts/linotype/janson-text/) (Kis) ($35)
 * [Ehrhardt](https://www.myfonts.com/fonts/mti/ehrhardt-mt/) (Kis) ($35)
 * [Simoncini Garamond](https://www.myfonts.com/fonts/linotype/simoncini-garamond/) (Jannon) ($35)
 * [Jannon](https://www.stormtype.com/families/jannon) ($55, $39 from the ‘Best of’ bundle)
 * [Van Dijck](https://www.myfonts.com/fonts/mti/van-dijck/) ($35)
-* William ([Text](https://www.typotheque.com/fonts/william_text), [Subhead](https://www.typotheque.com/fonts/william_subhead), [Display](https://www.typotheque.com/fonts/william_display))
+* William ([Text](https://www.typotheque.com/fonts/william_text), [Subhead](https://www.typotheque.com/fonts/william_subhead), [Display](https://www.typotheque.com/fonts/william_display)) (€90)
 * [Analogia](https://www.myfonts.com/fonts/george-tulloch/analogia/) ($21)
 * Arnhem ([Standard](https://ourtype.com/#/try/pro-fonts/arnhem/), [Display](https://ourtype.com/#/try/pro-fonts/arnhem-display/), [Fine](https://ourtype.com/#/try/loading/arnhem-fine/)) (€80)
 * [Custodia](https://ourtype.com/#/try/pro-fonts/custodia/) (€80)
 * [Genath](http://optimo.ch/typefaces_Genath.html) (150 SFr)
 * [Tribute](http://emigre.com/EF.php?fid=196) ($79 desktop, $39 web)
+* [Clifford](https://www.myfonts.com/fonts/fontfont/ff-clifford/) ($65)
+* [Corundum Text](http://www.dardenstudio.com/typefaces/corundum_text) ($39)
+* [Elzevir](https://www.dutchtypelibrary.nl/Elevir_rdrct.html) (€125 desktop, €1250 web)
+* [Fleischmann](https://www.dutchtypelibrary.nl/FleischT_Regular_rdrct.html) (Text, Display) (€125 desktop, €1250 web)
+* [Fell](https://www.dutchtypelibrary.nl/Fell_rdrct.html) (not yet available)
+* [Van den Keere](https://www.dutchtypelibrary.nl/VandenKeere_rdrct.html) (Text, Display) (€125 desktop, €1250 web)
+* [Geronimo](https://www.teff.nl/fonts/geronimo/index.html) (€281 desktop only)
+* [Renard](https://www.teff.nl/fonts/renard/index.html) (€562 roman & italic, desktop only)
 
 ### Transitional
 * [Monday](https://www.a2-type.co.uk/monday) (£45)
@@ -82,6 +89,7 @@ All classifications are arbitrary. Prices are per style.
 * [Monotype Modern](https://www.myfonts.com/fonts/mti/monotype-modern/) ($35)
 * [Fayon](https://ourtype.com/#/try/pro-fonts/fayon/) (€50)
 * [Didot Elder](http://optimo.ch/upload/typefaces/t7/images/Optimo_Didot_Specimen.pdf) (150 SFr)
+* Parmigiano ([Piccolo](https://www.typotheque.com/fonts/parmigiano_piccolo), [Caption](https://www.typotheque.com/fonts/parmigiano_caption), [Text](https://www.typotheque.com/fonts/parmigiano_text), [Headline](https://www.typotheque.com/fonts/parmigiano_headline)) (€90)
 
 ### Post-industrial (Plantin &c.)
 * Tiempos ([Headline](https://klim.co.nz/retail-fonts/tiempos-headline/), [Text](https://klim.co.nz/retail-fonts/tiempos-text/)) ($50) 
@@ -91,6 +99,7 @@ All classifications are arbitrary. Prices are per style.
 * [Messina Modern](https://luzi-type.ch/messina.html) (76 SFr)
 * [Newton](https://www.myfonts.com/fonts/paratype/newton/webfont_preview.html) (Times) ($30) 
 * [Stanley](http://optimo.ch/typefaces_Stanley.html) (150 SFr)
+* [Lexicon](https://www.teff.nl/fonts/lexicon/index.html) (€281)
 
 ## Sans
 ### Early grotesque
@@ -106,10 +115,8 @@ All classifications are arbitrary. Prices are per style.
 * [F Grotesk](http://radimpesko.com/fonts/f-grotesk) (€90 desktop only)
 * [Marcin Antique](http://www.felicianotypefoundry.com/cms/fonts/marcin-antique) (€35) 
 * [Italian Sans](https://www.a2-type.co.uk/italian-sans) (£45)
-* [Josef Sans](https://www.stormtype.com/families/josef-sans) ($53)
-* [Natron](http://www.displaay.net/projekt/natron) (€35, not yet available)
-* [Cádiz](https://luzi-type.ch/cadiz.html) (76 SFr)
 * [Ludwig](https://ourtype.com/#/try/loading/ludwig/) ([Standard](https://ourtype.com/#/try/loading/ludwig/), [Semicondensed](https://ourtype.com/#/try/loading/ludwig-semi-condensed/), [Condensed](https://ourtype.com/#/try/loading/ludwig-condensed/)) (€80)
+* Halyard ([Display](http://www.dardenstudio.com/typefaces/halyard?tab=micro), [Text](http://www.dardenstudio.com/typefaces/halyard?tab=micro), [Micro](http://www.dardenstudio.com/typefaces/halyard?tab=micro)) ($39)
 
 ### Late grotesk
 * [Atlas Grotesk](https://commercialtype.com/catalog/atlas/atlas_grotesk) ($50) 
@@ -122,7 +129,6 @@ All classifications are arbitrary. Prices are per style.
 * [Lars](https://bold-decisions.biz/typefaces/lars) (€75 desktop + web) 
 * [Union](http://radimpesko.com/fonts/union) (€90 desktop only)
 * Maison Neue ([Standard](https://www.milieugrotesque.com/typefaces/maison_neue/subfamilies/1157), [Extended](https://www.milieugrotesque.com/typefaces/maison_neue/subfamilies/1158)) (€99)
-* [Messina Sans](https://luzi-type.ch/messina.html) (76 SFr)
 * [Applied Sans](https://www.myfonts.com/fonts/mti/applied-sans/) ($55)
 * [Basic Commercial](https://www.myfonts.com/fonts/linotype/basic-commercial-lt/) ($55)
 * Fakt ([Standard](https://ourtype.com/#/try/pro-fonts/fakt/), [Semicondensed](https://ourtype.com/#/try/loading/fakt-semicondensed/), [Condensed](https://ourtype.com/#/try/loading/fakt-condensed/)) (€40)
@@ -130,14 +136,10 @@ All classifications are arbitrary. Prices are per style.
 * [Plain](http://optimo.ch/typefaces_Plain.html) (150 SFr)
 * [Px Grotesk](http://optimo.ch/typefaces_Px-Grotesk.html) (150 SFr)
 * [Executive](http://optimo.ch/typefaces_Executive.html) (150 SFr)
-
-### Humanist
-*à la Excoffon, Johnston, Gill*
-
-* [Patron](https://www.milieugrotesque.com/typefaces/patron/) (€99)
-* [Zin Sans](https://www.myfonts.com/fonts/carnoky/zin-sans/) ($46)
-* [Lynstone](https://luzi-type.ch/lynstone.html) (76 SFr)
-* [Edward](https://ourtype.com/#/try/pro-fonts/edward/) (€50)
+* [Post Grotesk](https://sharptype.co/typefaces/post-grotesk/) ($50)
+* [Akkurat](https://lineto.com/The+Fonts/Font+Categories/Text+Fonts/Akkurat/) (200 SFr desktop, 300 SFr web)
+* [Gerstner Programm](https://lineto.com/The+Fonts/Font+Categories/Text+Fonts/Gerstner+Programm%E2%84%A2/) (160 SFr desktop, 240 SFr web)
+* [Unica77](https://lineto.com/The+Fonts/Font+Categories/Text+Fonts/Unica77/) (140 SFr desktop, 210 SFr web)
 
 ### Geometric
 * [Stratos](https://productiontype.com/family/stratos) (€30 desktop, €59 web)
@@ -147,6 +149,21 @@ All classifications are arbitrary. Prices are per style.
 * [Agipo](http://radimpesko.com/fonts/agipo) (€90 desktop only)
 * [Lelo](https://camelot-typefaces.com/lelo) (€50)
 * [Jungka](https://www.jung-lee.nl/) (€90)
+* [Messina Sans](https://luzi-type.ch/messina.html) (Normal, Condensed) (76 SFr)
+* [Cádiz](https://luzi-type.ch/cadiz.html) (76 SFr)
+* [Lettera Text](https://lineto.com/The+Fonts/Font+Categories/Text+Fonts/Lettera+Text/) (190 SFr desktop, 285 SFr web)
+
+### Humanist
+*à la Excoffon, Johnston, Gill*
+
+* [Patron](https://www.milieugrotesque.com/typefaces/patron/) (€99)
+* [Zin Sans](https://www.myfonts.com/fonts/carnoky/zin-sans/) ($46)
+* [Lynstone](https://luzi-type.ch/lynstone.html) (76 SFr)
+* [Edward](https://ourtype.com/#/try/pro-fonts/edward/) (€50)
+* [Centra No. 1](https://sharptype.co/typefaces/centra-no1/) ($50)
+* [Josef Sans](https://www.stormtype.com/families/josef-sans) ($53)
+* [Gerbera](http://brownfox.org/fonts/gerbera/) ($40)
+* [Moderne](https://lineto.com/The+Fonts/Font+Categories/Text+Fonts/Moderne/) (190 SFr desktop, 285 SFr web)
 
 ### Functional
 * [Brevier](http://c-a-s-t.com/brevier/index.html) (€40 desktop only)
@@ -166,13 +183,13 @@ All classifications are arbitrary. Prices are per style.
 * [Chapeau](https://www.milieugrotesque.com/typefaces/chapeau/) (€99)
 * [Generika](https://www.milieugrotesque.com/typefaces/generika/) (€99)
 
-### Condensed grotesque 
+### Condensed grotesque
 * [Origin Super Condensed](https://productiontype.com/family/origin_super_condensed) (€40 desktop, €83 web)
 * [New Grotesk Square](https://www.a2-type.co.uk/new-grotesk-square) (£45)
 * [Girott](http://radimpesko.com/fonts/girott) (€90 desktop only)
 
-## Monospaced & faux monospaced 
-### Monospaced sans 
+## Monospaced & faux monospaced
+### Monospaced sans
 * [Atlas Typewriter](https://commercialtype.com/catalog/atlas/atlas_typewriter) ($50) 
 * [Founders Grotesk Mono](https://klim.co.nz/retail-fonts/founders-grotesk-mono/) ($50) 
 * [America Mono](https://www.grillitype.com/typefaces/gt-america) ($50) 
@@ -182,6 +199,8 @@ All classifications are arbitrary. Prices are per style.
 * [Lars Mono](https://bold-decisions.biz/typefaces/lars) (€75 desktop + web)
 * [Maison Neue Mono](https://www.milieugrotesque.com/typefaces/maison_neue/subfamilies/1159) (€99)
 * [Generika Mono](https://www.milieugrotesque.com/typefaces/generika/) (€99)
+* [Akkurat Mono](https://lineto.com/The+Fonts/Font+Categories/Text+Fonts/Akkurat+Mono/) (200 SFr desktop, 300 SFr web)
+* [Lettera](https://lineto.com/The+Fonts/Font+Categories/Monospaced+Fonts/Lettera/) (140 SFr desktop, 210 SFr web)
 
 ### Typewriter
 * [Pitch](https://klim.co.nz/retail-fonts/pitch/) ($50)
@@ -197,16 +216,18 @@ All classifications are arbitrary. Prices are per style.
 * [Ogg](https://sharptype.co/typefaces/ogg/) ($50) 
 * [Frauen](https://sharptype.co/typefaces/frauen/) ($50) 
 * [Odesta](http://www.urtd.net/fonts/odesta/) (€45) 
-* [Line](https://lettersfromsweden.se/line/) (€49)
 * [Medusa](http://www.re-type.com/fonts/medusa/) ($78)
+
+### Mechanical 
+* [Line](https://lettersfromsweden.se/line/) (€49)
 
 ### Blackletter
 * [Carol Gothic](https://www.myfonts.com/fonts/paratype/carol-gothic/) ($30)
 * [Gandur Alte](https://vllg.com/blackletra/gandur-alte) ($50)
 * [Respira Black](https://sharptype.co/typefaces/respira-black/) ($50) 
+* [Burgundica](https://www.teff.nl/fonts/burgundica/index.html) (€144 desktop only)
 
 ### Other
 * [Maelstrom](https://klim.co.nz/retail-fonts/maelstrom/) ($50) 
 * [SangBleu Serif](https://www.swisstypefaces.com/fonts/sangbleu/) (50 SFr)
 * [SangBleu Courtesan](https://www.swisstypefaces.com/fonts/sangbleu/) (50 SFr)
-
